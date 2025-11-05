@@ -34,9 +34,6 @@
   React + .NET Core 8 Web API + SQL Server  
   CV screening using Gemini API, Prescreen Test & Interview Scheduling
 
-- 🧑‍🎓 **Student Attendance System** *(In Progress)*  
-  React.js + Firebase (Firestore)  
-
 
 ---
 
